@@ -1,0 +1,13 @@
+.navbar-mab {
+  justify-content: space-between;
+  background: white;
+  margin-right: 20px;
+}
+
+.navbar-mab .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-mab .navbar-brand img {
+  width: 40px;
+}
